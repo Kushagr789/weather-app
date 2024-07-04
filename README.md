@@ -24,8 +24,12 @@ Welcome to the Flutter Weather App! This application allows users to search for 
 - **flutter_weather_bg_null_safety :**
   - A Flutter plugin that provide a variety of weather background animation effects, covering 15 weather types, including sunny,rain,snow...
   - Check out its usage at https://pub.dev/packages/flutter_weather_bg_null_safety.
-
-
+- **http :**
+  - This package contains a set of high-level functions and classes that make it easy to consume HTTP resources. It's multi-platform (mobile, desktop, and browser) and supports multiple implementations.
+  - Check out its usage at https://pub.dev/packages/http.
+- **provider :**
+  - The Provider is a state management solution that extends and simplifies Inherited Widgets. It is a versatile and powerful state manager that allows you to deliver data to any widget in your app.
+  - Check out its usage at https://pub.dev/packages/provider.
 
 
 ## Architecture: MVVM
